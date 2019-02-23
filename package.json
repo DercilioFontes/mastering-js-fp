@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "practicing the book mastering JS FP",
   "main": "index.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "eslint": "^5.14.1"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
