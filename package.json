@@ -1,0 +1,28 @@
+{
+  "name": "mastering-js-fp",
+  "version": "1.0.0",
+  "description": "practicing the book mastering JS FP",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^5.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DercilioFontes/mastering-js-fp.git"
+  },
+  "keywords": [
+    "javascript",
+    "functional",
+    "programming"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DercilioFontes/mastering-js-fp/issues"
+  },
+  "homepage": "https://github.com/DercilioFontes/mastering-js-fp#readme"
+}
