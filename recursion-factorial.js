@@ -14,3 +14,10 @@ console.log('fact(10)', fact(10));
 console.log('fact(15)', fact(15));
 console.log('fact(1)', fact(1));
 console.log('fact(7)', fact(7));
+
+/*
+With arrow function:
+
+const fact = n => (n === 0 ? 1 : n * fact(n - 1));
+
+*/
